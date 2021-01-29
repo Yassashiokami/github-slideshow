@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"It time to game on" - Eternity Draper
 Use the left arrow to go back!
